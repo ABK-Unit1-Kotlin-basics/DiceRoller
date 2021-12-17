@@ -20,7 +20,7 @@ What I learn
 - How to update the contents of a TextView while the app is running.
 - How to write unit tests
 
-What you'll build
+What I build
 -----------------
 - A Dice Roller Android app that has a Button to roll a dice and updates the text on the screen with the result of the roll.
 
